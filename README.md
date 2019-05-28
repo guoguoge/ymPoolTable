@@ -2,30 +2,6 @@
 
 ## Project setup
 ```
-npm install
+硬件部门 矿机信息查看
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vueclitemplate
 # ymPoolTable
